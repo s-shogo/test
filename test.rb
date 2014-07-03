@@ -13,7 +13,7 @@ test
 kaka
 kaka
 2est.rb
->>>>>>> t22esting
+>>>>>>> a22esting
 
 
 
